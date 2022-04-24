@@ -5,7 +5,6 @@ export default class Telefone implements Prototipo {
     public numero: string
 
     public clonar(): Prototipo {
-        let telefones = new Telefone[]
         let telefone = new Telefone()
         telefone.ddd = this.ddd
         telefone.numero = this.numero
