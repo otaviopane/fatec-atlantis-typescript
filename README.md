@@ -97,7 +97,7 @@ npx tsc
 ### Executar o projeto:
 Na pasta raiz do projeto:
 ```bash
-node ./out/app/main.js 
+node js/teste/index.js 
 ```
 
 
