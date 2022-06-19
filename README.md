@@ -1,7 +1,6 @@
 # **Técnica de Programação II - Primeira Atividade Prática**
 ## **Professor Gerson Penha Neto**
 ---
----
 #### **Contextualização:**
 O ramo de parques aquáticos é um mercado em expansão no mundo e o Brasil também faz parte disto. No Brasil estima-se que o setor fatura R$ 3 bilhões por ano, com 30 milhões de visitantes e gera 15 mil empregos diretos e 100 mil indiretos, dados de 2020.
 
