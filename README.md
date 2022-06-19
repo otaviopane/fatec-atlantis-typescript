@@ -1,6 +1,5 @@
-# **Técnica de Programação II - Primeira Atividade Prática**
+# **Técnica de Programação II - Atividade Prática**
 ## **Professor Gerson Penha Neto**
----
 ---
 ### **Organização:**
 #### As atividades estão divididas pelas branchs
